@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulina San Martin</h1>
 <h3 align="">Soy Desarrolladora Full Stack con orientación en Front-End. De Bariloche, Argentina. Actualmente viviendo en Cordoba Capital, Arg. Tengo la capacidad de realizar proyectos web completos teniendo siempre en cuenta la escalabilidad y eficiencia de los mismos. Para mí dedicarme a la programación significa, realmente entender el contexto de las necesidades humanas y a su vez cual es el propósito de la tecnología, y de esta manera crear soluciones que realmente ayuden a las personas. Todos los miembros de la comunidad de las TI tenemos muy buenas habilidades técnicas, sin embargo conmigo obtendrás una desarrolladora con una gran proactividad ya sea a la hora de aprender, enseñar o resolver problemas. Mis años como diseñadora gráfica me han ayudado a desarrollar aptitudes tales como la innovación constante, proactividad, prolijidad y el trabajo en equipo. Fuí Teaching Assistant de Henry donde me encargué de coordinar a un grupo de estudiantes para lograr la integración al grupo de estudio y orientarlos en los primeros pasos de la cursada. </h3>
   <h3>Quieres saber más. </h3>
-  <h4>📲Whatsapp: +54 9 351 217 6560 </h4>
+
   <h4>📧Email: sil.pauli.93@gmail.com</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sil-pauli&label=Profile%20views&color=0e75b6&style=flat" alt="sil-pauli" /> </p>
